@@ -17,5 +17,8 @@
 - [PC-Monitor](https://github.com/barlin41k/PC-Monitor) — Android application for monitoring PC status via local network.
 
 ## *My activity:*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barlin41k&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark)
+
+
+
