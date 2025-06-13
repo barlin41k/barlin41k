@@ -12,6 +12,5 @@
 
 
 ## *My projects:*
-#### [BarlaDB](https://github.com/barlin41k/barladb) - the best
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark)
