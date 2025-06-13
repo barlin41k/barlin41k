@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Coding enthusiast , entered IT in 2022
 <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" height="16"/></h3>
+<h3 align="center">Passionate about learning new technologies and building useful apps and more. Currently exploring full-stack development.</h3>
+
 
 <h3 align="center"><img src="https://www.animatedimages.org/data/media/280/animated-star-image-0151.gif" height="20"/> Skills:</h3>
 
