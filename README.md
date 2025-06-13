@@ -12,7 +12,10 @@
 ## *My platforms:*
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## *My featured projects:*
+- [BarlaDB](https://github.com/barlin41k/barladb) — Lightweight database for local projects.
+- [PC-Monitor](https://github.com/barlin41k/PC-Monitor) — Android application for monitoring PC status via local network.
 
-## *My projects:*
-
+## *My activity:*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barlin41k&layout=compact&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark)
