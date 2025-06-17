@@ -7,15 +7,15 @@
 
 <h3 align="center">⭐ Skills:</h3>
 
-## *Languages:*
+## Languages
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-## *My platforms:*
+## My platforms
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## *My featured projects:*
+## My featured projects
 - [PC-Monitor](https://github.com/barlin41k/PC-Monitor) — Android application for monitoring PC status via local network.
 
-## *My activity:*
+## My activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barlin41k&layout=compact&theme=dark)
 
