@@ -34,7 +34,7 @@
   </li>
 </ul>
 
-<h2 align="center">My activity</h3>
+<h2 align="center">📈 My activity</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark" alt="GitHub stats"/>
 </p>
