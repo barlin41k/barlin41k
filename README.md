@@ -39,5 +39,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark" alt="GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barlin41k&layout=compact&theme=dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barlin41k&layout=compact&theme=dark&cache_seconds=3600" alt="Top Langs"/>
 </p>
