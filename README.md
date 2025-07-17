@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://wakatime.com/@barlin41k">
       <img 
-        src="https://wakatime.com/badge/user/f3854d81-a8a0-45b2-8208-3b4aa43562db.svg"
+        src="https://wakatime.com/badge/user/d016de57-43d1-49f2-bfe6-edfc4e20ba34.svg"
         alt="WakaTime Stats"
       /img>
     </a>
