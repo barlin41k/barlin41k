@@ -4,6 +4,14 @@
 </h1>
 
 <h3 align="center">
+  <p align="center">
+    <a href="https://wakatime.com/@barlin41k">
+      <img 
+        src="https://wakatime.com/badge/user/f3854d81-a8a0-45b2-8208-3b4aa43562db.svg"
+        alt="WakaTime Stats"
+      /img>
+    </a>
+  </p>
   Coding enthusiast, entered IT in 2022
   <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" height="16" alt="coding gif" />
 </h3>
