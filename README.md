@@ -17,7 +17,7 @@
 </h3>
 
 <h4 align="center">
-  Passionate about learning new technologies and building useful apps and more. Currently exploring full-stack development.
+Passionate about learning new technologies and building useful apps and more. Currently exploring full-stack development.
 </h4>
 
 <h2 align="center">⭐ Skills:</h2>
