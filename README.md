@@ -34,14 +34,6 @@ Passionate about learning new technologies and building useful apps and more. Cu
     <img src="https://skillicons.dev/icons?i=windows,linux,androidstudio,idea,vscode,visualstudio,github,bash,powershell&perline=10" />
   </a>
 </p>
-
-<h2 align="center">🌐 My featured projects</h2>
-<ul>
-  <li align="center">
-    <a href="https://github.com/barlin41k/PC-Monitor" target="_blank"><b>PC-Monitor</b></a> — Android application for monitoring PC status via local network.
-  </li>
-</ul>
-
 <h2 align="center">📈 My activity</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barlin41k&show_icons=true&theme=dark" alt="GitHub stats"/>
