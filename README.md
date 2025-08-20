@@ -31,7 +31,7 @@ Passionate about learning new technologies and building useful apps and more. Cu
 <h2 align="center">💻 Platforms and software</h2>
 <p align="center">
   <a href="https://skill-icons-builder.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=windows,linux,androidstudio,idea,vscode,visualstudio,github,bash,powershell&perline=10" />
+    <img src="https://skillicons.dev/icons?i=windows,arch,androidstudio,vscodium,github,git,bash&perline=10" />
   </a>
 </p>
 <h2 align="center">📈 My activity</h3>
