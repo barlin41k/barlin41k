@@ -4,23 +4,23 @@
 </h1>
 
 <h3 align="center">
-  <p align="center">
-    <a href="https://wakatime.com/@barlin41k">
-      <img 
-        src="https://wakatime.com/badge/user/d016de57-43d1-49f2-bfe6-edfc4e20ba34.svg"
-        alt="WakaTime Stats"
-      /img>
-    </a>
-  </p>
-  Coding enthusiast, entered IT in 2022
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" height="16" alt="coding gif" />
+🛠️ Developer & Creator 🛠️
 </h3>
 
 <h4 align="center">
-Passionate about learning new technologies and building useful apps and more. Currently exploring full-stack development.
+Enthusiast developer who loves to turn ideas into code.
 </h4>
 
 <h2 align="center">⭐ Skills:</h2>
+
+<p align="center">
+  <a href="https://wakatime.com/@barlin41k">
+    <img 
+      src="https://wakatime.com/badge/user/d016de57-43d1-49f2-bfe6-edfc4e20ba34.svg"
+      alt="WakaTime Stats"
+    /img>
+  </a>
+</p>
 
 <p align="center">
     <a href="https://skill-icons-builder.vercel.app/">
