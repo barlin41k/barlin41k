@@ -24,7 +24,7 @@ Passionate about learning new technologies and building useful apps and more. Cu
 
 <p align="center">
     <a href="https://skill-icons-builder.vercel.app/">
-      <img src="https://skillicons.dev/icons?i=py,nodejs,typescript,flask,react,java,kotlin,cpp,cs&perline=10" />
+      <img src="https://skillicons.dev/icons?i=py,nodejs,typescript,flask,react,java,kotlin,cpp&perline=10" />
     </a>
 </p>
 
