@@ -4,10 +4,6 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Hi" />
   </h1>
   
-  <h2>
-    🛠️ Developer & Creator ⚒️
-  </h2>
-  
   <h3>
     developer, who loves to turn ideas into code
   </h3>
