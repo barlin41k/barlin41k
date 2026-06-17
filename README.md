@@ -15,13 +15,13 @@
     </p>
     <p>
         <a href="https://skill-icons-builder.vercel.app/">
-          <img src="https://skillicons.dev/icons?i=py,javascript,ts,java,kotlin,cpp,docker&center=true&perline=7" />
+          <img src="https://skillicons.dev/icons?i=py,ts,cpp,docker&center=true&perline=7" />
         </a> 
     </p>
     <h2>💻 - Software - 💻</h2>
     <p>
       <a href="https://skill-icons-builder.vercel.app/">
-        <img src="https://skillicons.dev/icons?i=arch,vscode,androidstudio,neovim,bash,git&perline=10" />
+        <img src="https://skillicons.dev/icons?i=arch,vscode,neovim,bash,git&perline=10" />
       </a>
     </p>
 </div>
